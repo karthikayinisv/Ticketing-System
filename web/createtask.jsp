@@ -47,14 +47,12 @@
     request.setAttribute("task", task);
 %>
 
-
-
 <html>
 <head>
     <meta charset="utf-8" />
     <title>Update Task</title>
     <link rel="stylesheet" type="text/css" href="../styles/core.css" />
-      <link href="./src/styles/admin.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../styles/admin.css" />
 </head>
 <body>
 
@@ -118,7 +116,6 @@
         </div>
     </div>
 </div>
-
 
 <script src="vendors/scripts/core.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
